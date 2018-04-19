@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemStore.Domain", "GemStore.Domain\GemStore.Domain.csproj", "{A13D0D82-230C-4A4D-B16C-6787D6CAAD88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemStore.WebUI", "GemStore.WebUI\GemStore.WebUI.csproj", "{FD34627C-C6D5-416A-859A-B36D30A5B8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13D0D82-230C-4A4D-B16C-6787D6CAAD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13D0D82-230C-4A4D-B16C-6787D6CAAD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13D0D82-230C-4A4D-B16C-6787D6CAAD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13D0D82-230C-4A4D-B16C-6787D6CAAD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD34627C-C6D5-416A-859A-B36D30A5B8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD34627C-C6D5-416A-859A-B36D30A5B8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD34627C-C6D5-416A-859A-B36D30A5B8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD34627C-C6D5-416A-859A-B36D30A5B8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {497CE9AA-7DB1-4E36-8B72-C6D16C90D264}
+	EndGlobalSection
+EndGlobal
