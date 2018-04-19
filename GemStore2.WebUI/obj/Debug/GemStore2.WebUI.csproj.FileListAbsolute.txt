@@ -1,0 +1,2 @@
+c:\users\rolmicw\Source\Repos\GemStore2\GemStore2.WebUI\obj\Debug\GemStore2.WebUI.csprojResolveAssemblyReference.cache
+c:\users\rolmicw\Source\Repos\GemStore2\GemStore2.WebUI\obj\Debug\GemStore2.WebUI.csproj.CoreCompileInputs.cache
